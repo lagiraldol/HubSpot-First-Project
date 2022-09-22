@@ -1,4 +1,4 @@
-# getting-started-project-template
+# Alejandro-first-project-template
 
 This is the Getting Started project for HubSpot developer projects. This repo contains code that is intended to help developers to get up and running with developer projects quickly and easily.
 
